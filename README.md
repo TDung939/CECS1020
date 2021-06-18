@@ -20,6 +20,8 @@ Additional links:
 * [Kaggle Profile](https://www.kaggle.com/khointn/competitions)
 * [Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
 
+Note: Due to the report's length requirement, we could not put everything we have done into it. Please check through our ipynb file for full implementation. Thank you!
+
 ## The Challege (Kaggle)
 
 "The sinking of the Titanic is one of the most infamous shipwrecks in history.
