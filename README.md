@@ -38,6 +38,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 ## Implementation (ipynb file)
 
+### Preprocessing Part
+
 ### Method 1: Logistic Regression
 ```python
 from sklearn.model_selection import train_test_split
