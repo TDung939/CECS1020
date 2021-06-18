@@ -16,9 +16,9 @@ This zip folder includes:
 
 
 Additional links:
-*[Our working Google Colab folder](https://drive.google.com/drive/folders/17aytyP0m-z9awW04v71VOnRkTjKtGOgA)
-*[Kaggle Profile](https://www.kaggle.com/khointn/competitions)
-*[Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
+* [Our working Google Colab folder](https://drive.google.com/drive/folders/17aytyP0m-z9awW04v71VOnRkTjKtGOgA)
+* [Kaggle Profile](https://www.kaggle.com/khointn/competitions)
+* [Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
 
 ## The Challege (Kaggle)
 
