@@ -20,6 +20,7 @@ Additional links:
 * [Kaggle Profile](https://www.kaggle.com/khointn/competitions)
 * [Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
 * [Google Slides](https://docs.google.com/presentation/d/1zmoag6ffbF7Gd2EAPUQgFm2DWUOMHCbNLJk1kqL000U/edit?usp=sharing)
+* [Github for zip file](https://github.com/TDung939/CECS1020)
 
 Note: 
 * Due to the report's length requirement, we could not put everything we have done into it. Please check through our ipynb file for full implementation.
