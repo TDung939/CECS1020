@@ -19,8 +19,12 @@ Additional links:
 * [Our working Google Colab folder](https://drive.google.com/drive/folders/17aytyP0m-z9awW04v71VOnRkTjKtGOgA)
 * [Kaggle Profile](https://www.kaggle.com/khointn/competitions)
 * [Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
+* [Google Slides](https://docs.google.com/presentation/d/1zmoag6ffbF7Gd2EAPUQgFm2DWUOMHCbNLJk1kqL000U/edit?usp=sharing)
 
-Note: Due to the report's length requirement, we could not put everything we have done into it. Please check through our ipynb file for full implementation. Thank you!
+Note: 
+* Due to the report's length requirement, we could not put everything we have done into it. Please check through our ipynb file for full implementation.
+* We made our slides on Google Slide. When converting it into the Powerpoint slide, it may has some visualization errors. Please access our Google Slides link above if you encounter such errors.
+* The report's length requirement is 6 pages excluding the references. However, we did 7 pages (excluding the references and 2 first pages for outline). 
 
 ## The Challege (Kaggle)
 
