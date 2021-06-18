@@ -31,7 +31,7 @@ from sklearn.metrics import confusion_matrix
 confusion_matrix(y_valid,y_pred)
 ```
 
-### Method 2: Decision Tree Using SKLEARN Tool
+### Method 2: Decision Tree
 ```python
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report as cr
