@@ -1,5 +1,25 @@
 # CECS1020 Final Project - Titanic Prediction
 
+## Introduction
+
+This is the Group project for CECS1020 class - Introduction to Machine Learning of VinUniversity. We are group 6:
+
+* Nguyen Tiet Nguyen Khoi
+* Nguyen Duong Tung
+* Nguyen Hoang Trung Dung
+
+
+This zip folder includes:
+* Final report (using Latex)
+* ipynb file for the coding implementation
+* Slides for the group presentation
+
+
+Additional links:
+*[Our working Google Colab folder](https://drive.google.com/drive/folders/17aytyP0m-z9awW04v71VOnRkTjKtGOgA)
+*[Kaggle Profile](https://www.kaggle.com/khointn/competitions)
+*[Presentation Video](https://drive.google.com/file/d/1TKtsZcjgATvDocsHnyq3eo8XjxksZAEP/view?usp=sharing)
+
 ## The Challege (Kaggle)
 
 "The sinking of the Titanic is one of the most infamous shipwrecks in history.
@@ -10,7 +30,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc)."
 
-## Implementation
+## Implementation (ipynb file)
 
 ### Method 1: Logistic Regression
 ```python
