@@ -1,6 +1,4 @@
-# CECS1020 Final Project
-
-
+# CECS1020 Final Project - Titanic Prediction
 
 ## Installation
 
